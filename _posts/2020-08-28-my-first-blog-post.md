@@ -1,3 +1,5 @@
+---
 title: "Learning blog, eventually Portfoio of kick-ass projects"
-Date: "today"
+date: "2020-08-28"
+---
 First Post, learning Github pages. will edit obvi.
